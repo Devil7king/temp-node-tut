@@ -1,0 +1,9 @@
+// Modules
+const names = require('./4names');
+const sayhi = require('./5utiles')
+const data = require('./6alternaiveflavor')
+//console.log(names)
+require('./7mindgrenade')
+ sayhi('dsd')
+ sayhi(names.jon)
+ sayhi(names.sds)
